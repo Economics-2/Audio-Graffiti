@@ -1,0 +1,9 @@
+{
+  "name": "Audio Graffiti",
+  "description": "An augmented reality soundscape where you can pin audio messages to physical locations and discover secret recordings left by others.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
